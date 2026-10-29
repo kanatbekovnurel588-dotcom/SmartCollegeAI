@@ -1,0 +1,21 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# ВИРТУАЛЬНОЕ ОКРУЖЕНИЕ
+.venv/
+venv/
+
+# КЭШ PYTHON
+__pycache__/
+*.py[cod]
+
+# НАСТРОЙКИ IDE
+.idea/
+.vscode/
+
+# СЕКРЕТЫ И КОНФИГУРАЦИЯ
+.env
+.env.*
+
+# СИСТЕМНЫЕ ФАЙЛЫ
+.DS_Store
+
